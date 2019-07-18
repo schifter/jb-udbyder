@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/appicon2.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Just Beauty                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Test1231asdawdawd123ad asd asd / dasd //Nn as
+app_description                           : Test1231asdawdawd123ad asd asd / dasd //Nn as Test1231asdawdawd123ad asd asd / dasd //Nn as       Test1231asdawdawd123ad asd asd / dasd //Nn as       Test1231asdawdawd123ad asd asd / dasd //Nn appstore_linkTest1231asdawdawd123ad asd asd / dasd //Nn as         Test1231asdawdawd123ad asd asd / dasd //Nn appstore_link                                    Test1231asdawdawd123ad asd asd / dasd //Nn as
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -79,7 +79,7 @@ features                                  :
 # Theme Settings
 topbar_color                              : "#ffffff"
 topbar_transparency                       : 0.1
-topbar_title_color                        : "#ffffff"
+topbar_title_color                        : "#000000"
 
 cover_image                               : none
 cover_overlay_color                       : "#ffffff"
