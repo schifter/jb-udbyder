@@ -17,9 +17,9 @@ app_description                           : På Just Beauty appen kan forbrugern
 
 
 # Information About Yourself
-your_name                                 : Just Beauty                         
+your_name                                 :                       
 your_link                                 :                   
-your_city                                 : Copenhagen                                
+your_city                                 :                               
 email_address                             : justbeautydk@gmail.com
 facebook_username                         :                                           
 instagram_username                        : 
@@ -54,7 +54,6 @@ features                                  :
   
   - title                                 : Titel her
     description                           : Med Just Beauty’s Pre-Pay funktion, er det slut med at miste penge fordi kunden udebliver
-    fontawesome_icon_name                 : 
 
 
 # Theme Settings
