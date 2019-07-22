@@ -12,7 +12,7 @@ presskit_download_link                    :                              # Enter
 app_icon                                  : assets/appicon2.jpeg                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Just Beauty                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : På Just Beauty appen kan forbrugerne at se afstand til Jeres forretning, se Jeres udbud af services, priser, billeder, ratings, anmeldelser og meget mere. Herfra kan man ganske enkelt ved – hvis man ikke allerede har et velfungerende online kalender booking system - at bruge Just Beauty´s online kalenderbooking system når der skal bestilles en tid.
+app_description                           : På Just Beauty appen kan forbrugerne se afstand til Jeres forretning, se Jeres udbud af services, priser, billeder, ratings, anmeldelser og meget mere. Herfra kan man ganske enkelt – hvis man ikke allerede har et velfungerende online kalender booking system -  bruge Just Beauty´s online kalenderbooking system når der skal bestilles en tid.
 
 
 
