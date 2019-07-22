@@ -34,26 +34,28 @@ features                                  :
 
   - title                                 : Alt samlet ét sted
     description                           : Just Beauty samler beauty og wellness markedet ét sted for forbrugerne
-    fontawesome_icon_name                 : 
+    fontawesome_icon_name                 : abacus
     
   - title                                 : Vis hvad du kan
     description                           : God online reklame og markedsførings platform
-    fontawesome_icon_name                 : 
+    fontawesome_icon_name                 : abacus
 
   - title                                 : Bliv set af forbrugerne
     description                           : God og synlig eksponering til et stort marked af forbrugere
-    fontawesome_icon_name                 : 
+    fontawesome_icon_name                 : abacus
 
   - title                                 : Plads til forskelligheder
     description                           : Mulighed for at køre individuelle tilbuds og reklame kampagner
-    fontawesome_icon_name                 : 
+    fontawesome_icon_name                 : abacus
 
   - title                                 : Forbruger venligt
     description                           : Nemt og enkelt overblik for forbrugerne og mulighed for online booking system
-    fontawesome_icon_name                 : 
+    fontawesome_icon_name                 : abacus
   
   - title                                 : Vær sikker på dine penge
     description                           : Med Just Beauty’s Pre-Pay funktion, er det slut med at miste penge fordi kunden udebliver
+    fontawesome_icon_name                 : abacus
+
 
 
 # Theme Settings
@@ -78,8 +80,8 @@ app_description_color                     : "#000000"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
-feature_icons_background_color            : "#e6e6e6"
+feature_icons_foreground_color            : "#F8F8F8"
+feature_icons_background_color            : "#F8F8F8"
 
 social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
